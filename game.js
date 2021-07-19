@@ -84,7 +84,7 @@ function checkAnswer(currentLevel){
     high=level;    
    }
    $("h1").text("GAME OVER. PRESS ANY KEY TO RESTART");
-   $("h2").text("score : "+level+" highest score : "+high);
+   $("#score").text("Score : "+level+"  Highest score : "+high);
    level=0;
    gamePattern=[];
    

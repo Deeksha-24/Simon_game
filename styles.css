@@ -6,8 +6,32 @@ body {
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin:  3%;
   color: #FEF2BF;
+}
+a{
+  color:indianred;
+}
+h1{
+  color: #FEF2BF;
+  font-size: 3rem;
+  margin:  3%;
+}
+#rule,#score{
+  color: #FEF2BF;
+  text-align:center;
+}
+h2{
+  color: #FEF2BF;
+  text-align: left;
+}
+h3{
+  color:#FEF2BF;
+  text-align: left;
+  margin-left: 1.5em;
+}
+.example{
+  color:brown;
 }
 #score{
   color:#FEF2BF;
